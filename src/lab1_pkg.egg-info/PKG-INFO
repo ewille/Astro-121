@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: lab1_pkg
+Version: 0.1.0
+Summary: A package created in tandem with UC Berkeley's Astro 121 Lab 1. It is a toolbox for performing analysis on sine waves, mixers, and spectral characteristics of a signal
+Author-email: Evan Wille <ewille@berkeley.edu>
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown

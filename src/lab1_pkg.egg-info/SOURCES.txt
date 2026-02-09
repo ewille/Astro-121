@@ -1,0 +1,8 @@
+pyproject.toml
+src/lab1/Lab1.py
+src/lab1/__init__.py
+src/lab1_pkg.egg-info/PKG-INFO
+src/lab1_pkg.egg-info/SOURCES.txt
+src/lab1_pkg.egg-info/dependency_links.txt
+src/lab1_pkg.egg-info/entry_points.txt
+src/lab1_pkg.egg-info/top_level.txt

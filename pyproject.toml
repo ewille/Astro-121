@@ -1,0 +1,20 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "lab1_pkg"
+version = "0.1.0"
+authors = [
+  { name="Evan Wille", email="ewille@berkeley.edu" },
+]
+description = "A package created in tandem with UC Berkeley's Astro 121 Lab 1. It is a toolbox for performing analysis on sine waves, mixers, and spectral characteristics of a signal"
+readme = "README.md"
+requires-python = ">=3.7"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Operating System :: OS Independent",
+]
+
+[project.scripts]
+run-lab1 = "lab1.Lab1:main"

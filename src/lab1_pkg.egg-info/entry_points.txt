@@ -1,0 +1,2 @@
+[console_scripts]
+run-lab1 = lab1.Lab1:main
